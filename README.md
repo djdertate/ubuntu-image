@@ -1,2 +1,2 @@
 # ubuntu-image
-Some stuff I do to Ubuntu to prepare it for my use.
+A collection of commands that I run to get Ubuntu ready for my use.
